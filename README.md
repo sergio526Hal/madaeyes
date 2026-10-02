@@ -1,6 +1,6 @@
-# 🇲🇬 MadaEyes
+ MadaEyes
 
-## 🌴 Site web touristique dédié à Madagascar
+ Site web touristique dédié à Madagascar
 
 **MadaEyes** est un site web touristique conçu pour faire découvrir Madagascar, ses destinations, sa culture, ses paysages et ses richesses naturelles.
 
@@ -8,7 +8,7 @@ Le projet propose une interface moderne, responsive et facile à utiliser, perme
 
 ---
 
-## 🎯 Objectifs du projet
+ Objectifs du projet
 
 L'objectif de **MadaEyes** est de :
 
@@ -21,24 +21,24 @@ L'objectif de **MadaEyes** est de :
 
 ---
 
-## ✨ Fonctionnalités
+ Fonctionnalités
 
 Le site comprend notamment :
 
-* 🏠 Page d'accueil
-* 🇲🇬 Présentation de Madagascar
-* 📍 Présentation de différentes destinations
-* 🏙️ Pages dédiées aux principales villes et régions
-* 🖼️ Galerie d'images
-* 💬 Section forum
-* 📝 Formulaire d'inscription
-* 🎨 Interface responsive
-* ✨ Animations avec AOS
-* 📱 Adaptation aux smartphones, tablettes et ordinateurs
+*  Page d'accueil
+ Présentation de Madagascar
+*  Présentation de différentes destinations
+*  Pages dédiées aux principales villes et régions
+*  Galerie d'images
+*  Section forum
+*  Formulaire d'inscription
+*  Interface responsive
+*  Animations avec AOS
+*  Adaptation aux smartphones, tablettes et ordinateurs
 
 ---
 
-## 🛠️ Technologies utilisées
+ Technologies utilisées
 
 ### Front-end
 
@@ -61,7 +61,7 @@ Le site comprend notamment :
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```text
 madaeyes/
@@ -84,7 +84,7 @@ madaeyes/
 └── script/
 ```
 
-### 📂 PROVICES
+###  PROVICES
 
 Le dossier `PROVICES` contient les différentes pages consacrées aux principales villes et régions :
 
@@ -100,7 +100,7 @@ PROVICES/
 
 ---
 
-## 💻 Installation et utilisation
+##  Installation et utilisation
 
 Aucune installation particulière n'est nécessaire.
 
@@ -130,31 +130,20 @@ Vous pouvez également utiliser **Visual Studio Code** avec l'extension **Live S
 
 ---
 
-## 🌐 Déploiement
+##  Déploiement
 
 Le projet peut être déployé facilement sur des plateformes d'hébergement de sites statiques telles que **Vercel** ou **GitHub Pages**.
 
 ---
 
-## 📸 Aperçu
+##  Aperçu
 
 MadaEyes propose une interface orientée tourisme avec des contenus visuels permettant de découvrir les différentes destinations de Madagascar.
 
 ---
 
-## 👨‍💻 Auteur
 
-**Maminomena Halinirina Sergio**
-
-Étudiant en :
-
-**Informatique de Gestion, Génie Logiciel et Intelligence Artificielle**
-
-Institut Supérieur Polytechnique de Madagascar
-
----
-
-## 📌 Projet académique
+##  Projet académique
 
 Ce projet a été réalisé dans le cadre de la formation en développement informatique et constitue une mise en pratique des compétences en :
 
@@ -166,6 +155,4 @@ Ce projet a été réalisé dans le cadre de la formation en développement info
 
 ---
 
-## 📄 Licence
 
-Ce projet est destiné à un usage académique et personnel.
